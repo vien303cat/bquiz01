@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <?php
 	include "sql.php";
 	include "auth.php";
@@ -25,7 +25,7 @@
     	<div id="ms">
              	<div id="lf" style="float:left;">
             		<div id="menuput" class="dbor">
-                    	                            <span class="t botli">主選單區</span>
+                    	                            <span class="t botli">主區</span>
 													 <?=$menu?>
                                                 </div>
                     <div class="dbor" style="margin:3px; width:95%; height:20%; line-height:100px;">
